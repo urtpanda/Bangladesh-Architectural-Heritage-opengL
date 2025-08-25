@@ -26,5 +26,5 @@ Additional Features: Simulates realistic day/night environment with continuous a
 ## Technologies Used
 - **Programming Language:** C++
 - **Graphics Library:** OpenGL with GLUT
-- **IDE:** Code::Blocks / Visual Studio
+- **IDE:** Code::Blocks 
 
