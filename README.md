@@ -11,12 +11,12 @@ Day Version: Blue sky, bright sun, clouds, birds flying, green trees, and Bangla
 Night Version: Dark sky, moon replacing the sun, stars visible, flag still waving, with natural scenery dimmed to simulate night.
 Additional Features: Animated clouds and birds for realistic movement.
 
--National Parliament House (Jatiyo Sangsad Bhaban)
+- National Parliament House (Jatiyo Sangsad Bhaban)
 Day Version: Blue sky with sun, trees surrounding the Parliament, flag on the building, steps and entrance clearly visible.
 Night Version: Dark sky with moon, windows or building surfaces slightly illuminated to simulate night.
 Additional Features: Smooth animations of moving objects around the building.
 
--Shaheed Minar
+- Shaheed Minar
 Day Version: Light blue sky, sun, trees on both sides, two animated people walking in front of the monument, flag visible.
 Night Version: Dark sky with moon, stars in the background, walking people still visible, monument and trees slightly dimmed for night effect.
 Additional Features: Simulates realistic day/night environment with continuous animation.
